@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+#myh2{
+  text-align: center;
+  color : #282617;
+  margin-top: 3%;
+}
+
 html {
   font-family: 'Roboto Slab', sans-serif;
   line-height: 1.5;
